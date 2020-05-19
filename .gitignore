@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# BusTramMetroAPI-specific
+# ignore kv78dl/ as that is used by download_kv78turbo.sh
+kv78dl/
